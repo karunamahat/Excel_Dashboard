@@ -11,8 +11,7 @@ The dashboard provides a visual summary of key insights related to bike purchase
 - Age Bracket
 
 # Dashboard Preview
-
-
+![Bike Sales Dashboard](BikeSalesDashboard.png)
 
 # Notes
 This dashboard was built as a personal project to practice Excel data visualization and dashboard creation. It's a good example of how powerful Excel can be for building quick, interactive BI tools — no coding required.
